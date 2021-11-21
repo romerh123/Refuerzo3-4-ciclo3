@@ -1,0 +1,100 @@
+*{
+
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+
+
+}
+body {
+    background-image: radial-gradient(circle at 100% 0%, #0087e6 0, #0084ea 8.33%, #0081ed 16.67%, #007ded 25%, #0079ec 33.33%, #0074e9 41.67%, #486ee5 50%, #6868df 58.33%, #8061d8 66.67%, #945acf 75%, #a553c5 83.33%, #b34bba 91.67%, #be44af 100%);
+}
+
+.form-register{
+ width: 400px;
+ background-color: tomato;
+ padding: 30px;
+ margin: auto;
+margin-top: 60px;
+border-radius: 8px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(19, 18, 18);
+
+}
+
+.form-register h4 {
+    font-size: 32px;
+    margin-bottom: 50px;
+  }
+
+
+
+  .controls {
+    width: 100%;
+    background: #e0e5eb;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+  }
+
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+  }
+ .h3{
+   border: 2px solid;
+ }
+ h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  border-color: coral;
+  text-align: justify;
+  color: rgb(25, 219, 106);
+  font-family: fantasy;
+  line-height: 40px;
+}
+.p{
+  text-decoration: overline
+  currentColor;
+}
+p{
+  text-align: left;
+  ext-align: justify;
+  color: rgb(25, 219, 106);
+  font-family: fantasy;
+  line-height: 40px;
+}
+
